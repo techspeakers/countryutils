@@ -1,6 +1,6 @@
 {
   "name": "@techspeakers/countryutils",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "JavaScript utilities for country names",
   "main": "index",
   "module": "src/countries.js",
